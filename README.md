@@ -60,8 +60,9 @@ Detects cycles in a graph using DFS.
 Each Java file can be compiled and run independently. To compile a file, use the following command in the terminal:
 
 To run the compiled file, use:
-**javac <filename>.java**
 
-**java <filename>**
+**javac filename.java**
+
+**java filename**
 
 Replace <filename> with the name of the file you want to compile and run.
